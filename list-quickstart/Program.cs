@@ -7,6 +7,10 @@ namespace list_quickstart
     {
         static void Main(string[] args)
         {
+            WorkingWithStrings();
+        }
+        public static void WorkingWithStrings()
+        {
             var names = new List<string> { "Rogerio", "Ana", "Felipe" };
             foreach (var name in names)
             {
@@ -24,6 +28,21 @@ namespace list_quickstart
             Console.WriteLine($"I've added {names[2]} and {names[3]} to the list");
 
             Console.WriteLine($"The list has {names.Count} people in it");
+
+            var index = names.IndexOf("Felipe");
+            if (index == -1)
+            {
+                Console.WriteLine($"When an item is not found, IndexOf returns {index}");
+            } else
+            {
+                Console.WriteLine($"The name {names[index]} is at index {index}");
+            }
+
+            names.Sort();
+            foreach (var name in names)
+            {
+                Console.WriteLine($"Hello {name.ToUpper()}!");
+            }
         }
     }
 }
