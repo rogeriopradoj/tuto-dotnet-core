@@ -1,0 +1,10 @@
+/Users/rogerio/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/Users/rogerio/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/Users/rogerio/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/Users/rogerio/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/Users/rogerio/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/Users/rogerio/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/Users/rogerio/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/Users/rogerio/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/Users/rogerio/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/Users/rogerio/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
